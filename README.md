@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jwolfe5
 - 👀 I’m interested in trying to learn as many skills/concepts for software engineering as possible
 - 🌱 I’m currently learning everything i can
-- 💞️ I’m looking to collaborate on any open source project that can contribute to helping me grow my skills
+- 💞️ I’m looking to collaborate on any open source project that can contribute to helping me grow my skills as well as help whoever is in need
 - 📫 How to reach me, you can message me on git
 - ⚡ Fun fact: i like to test my self and learn constantly
 
